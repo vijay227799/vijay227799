@@ -1,7 +1,7 @@
 ## Hi there 👋I'm VIJAY D
 
 I'm a passionate Computer Science & Engineering student with a keen interest in **AI/ML**, **Software development**, and **contributing to impactful projects**. 
-
+-----
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
