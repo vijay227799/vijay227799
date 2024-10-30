@@ -1,9 +1,10 @@
-## Hi there 👋I'm VIJAY D  ##
------
-###About Me 💻 \n###
+# Hi there 👋I'm VIJAY D 
+
+About Me 💻
 
 I'm a passionate Computer Science & Engineering student with a keen interest in **AI/ML**,**Natural Language Processing**, **Software development**, and **contributing to impactful projects**. 
------
+
+
 ### 🚀Tools and Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -22,12 +23,11 @@ I'm a passionate Computer Science & Engineering student with a keen interest in 
 ### My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay227799&show_icons=true&theme=radical)
 
-- LinkedIn: [Vijay's LinkedIn](https://www.linkedin.com/in/vijay-d-5b2190259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- Email: vijaydragh@gmail.com
+### LinkedIn: [Vijay's LinkedIn](https://www.linkedin.com/in/vijay-d-5b2190259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
 
-  ### 👯 Looking to Collaborate On
+### 👯 Looking to Collaborate On
 Open-source projects focused on **education tech** and **Generative AI**
 <!--
 **vijay227799/vijay227799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
