@@ -1,6 +1,6 @@
 ## Hi there 👋I'm VIJAY D
 
-##I'm a passionate Computer Science & Engineering student with a keen interest in **AI/ML**, **software development**, and **contributing to impactful projects**. I’m constantly exploring new technologies.
+I'm a passionate Computer Science & Engineering student with a keen interest in **AI/ML**, **Software development**, and **contributing to impactful projects**. 
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 - ### 👯 Looking to Collaborate On
-- Open-source projects focused on **education tech** and **Generative AI**.
+- Open-source projects focused on **education tech** and **Generative AI**
 - <!--
 **vijay227799/vijay227799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
