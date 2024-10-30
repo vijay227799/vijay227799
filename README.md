@@ -27,7 +27,7 @@ I'm a passionate Computer Science & Engineering student with a keen interest in 
 
 
 
-### 👯 Looking to Collaborate On
+### 👨‍💻👨‍💻 Looking to Collaborate On
 Open-source projects focused on **education tech** and **Generative AI**
 <!--
 **vijay227799/vijay227799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
