@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋I'm VIJAY D
 
+### Languages and Tools
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 <!--
 **vijay227799/vijay227799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
