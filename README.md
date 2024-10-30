@@ -1,4 +1,4 @@
-# Hi there 👋I'm VIJAY D 
+# Hey there 👋I'm VIJAY D 
 
 About Me 💻
 
