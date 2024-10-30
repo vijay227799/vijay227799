@@ -1,7 +1,7 @@
 ## Hi there 👋I'm VIJAY D  ##
 -----
-##
-About Me 💻
+###About Me 💻 \n###
+
 I'm a passionate Computer Science & Engineering student with a keen interest in **AI/ML**,**Natural Language Processing**, **Software development**, and **contributing to impactful projects**. 
 -----
 ### 🚀Tools and Frameworks
@@ -27,9 +27,9 @@ I'm a passionate Computer Science & Engineering student with a keen interest in 
 
 
 
-- ### 👯 Looking to Collaborate On
-- Open-source projects focused on **education tech** and **Generative AI**
-- <!--
+  ### 👯 Looking to Collaborate On
+Open-source projects focused on **education tech** and **Generative AI**
+<!--
 **vijay227799/vijay227799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
