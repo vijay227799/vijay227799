@@ -20,7 +20,7 @@ I'm a passionate Computer Science & Engineering student with a keen interest in 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-📊 ###My GitHub Stats
+### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay227799&show_icons=true&theme=radical)
 
 ### LinkedIn: [Vijay's LinkedIn](https://www.linkedin.com/in/vijay-d-5b2190259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
