@@ -64,6 +64,6 @@ I’m especially excited by:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=My+Life;My+Responsibilities!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=My+Life;My+Responsibilities&center=true&width=500&height=45" />
 </p>
 ---
