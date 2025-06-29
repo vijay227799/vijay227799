@@ -59,11 +59,10 @@ I’m especially excited by:
 -    Cybersecurity and Quantum tech related concepts
 - 📚 Open-source EdTech platforms  
 - 📱 AI-based Android Apps
--  
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=My+Life;My+Responsibilities&center=true&width=500&height=45" />
 </p>
----
+
