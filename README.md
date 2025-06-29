@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay D 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Engineer | AI/ML Explorer | Open Source Contributor
+  🚀 Aspiring Engineer | Open Source Contributor | Cybersecurity Enthusiast
 </p>
 
 ---
@@ -11,8 +11,8 @@ I'm a dedicated **Computer Science & Engineering** student with a passion for us
 
 I’m especially excited by:
 - 🤖 Artificial Intelligence & Machine Learning
-- 💬 Natural Language Processing
 - 🧩 Full Stack & Mobile Development
+- 💻 Cybersecurity and Quantum Tech
 - 🌍 Building projects that solve real-world problems
 
 ---
@@ -20,7 +20,7 @@ I’m especially excited by:
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,firebase,git,androidstudio,vscode,eclipse,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,firebase,git,androidstudio,vscode,eclipse,sqlite,aws" />
 </p>
 
 ---
@@ -55,18 +55,17 @@ I’m especially excited by:
 ### 🧠 Currently Exploring
 
 🔭 Open to collaboration on:
-- ✨ Generative AI & NLP tools  
+- ✨ Generative AI & NLP tools 
+-    Cybersecurity and Quantum tech related concepts
 - 📚 Open-source EdTech platforms  
 - 📱 AI-based Android Apps
-
+- 
 ---
 
-### ✨ Final Touch
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+stuff+with+code.;Always+learning+new+things!;&center=true&width=500&height=45" />
 </p>
 
 ---
-
-> _“Simplicity is the soul of efficiency.” – Austin Freeman_
