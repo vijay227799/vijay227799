@@ -36,10 +36,6 @@ I’m especially excited by:
   <img src="https://github-profile-trophy.vercel.app/?username=vijay227799&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay227799&theme=github-compact&hide_border=true"/>
-</p>
-
 ---
 
 ### 🤝 Let’s Connect
