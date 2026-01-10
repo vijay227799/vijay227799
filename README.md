@@ -20,7 +20,7 @@ I’m especially excited by:
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,firebase,git,androidstudio,vscode,eclipse,sqlite,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,firebase,git,androidstudio,vscode,eclipse,sqlite,aws,django,mongodb" />
 </p>
 
 ---
